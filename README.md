@@ -1,7 +1,20 @@
 <div align="center">
-  <h1>Hi I am, Khayrul</h1>
-  <h3>Technical Support & Service Specialist</h3>
-  <p><i>Client Success Team at <b>GMBSells™</b></i></p>
+  <img src="https://img.shields.io/badge/GMBSells-Official_Team-blue?style=for-the-badge&logo=github" alt="GMBSells" />
+  
+  <h1>👋 Hi, I am Khayrul</h1>
+  <h3>⚡ Technical Support & Service Specialist at GMBSells</h3>
+  
+  <p>
+    <b>Custom Year Contribution Push</b> | <b>High-Retention Stars</b> | <b>Strategic Forks</b>
+  </p>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Service-2--10_Years_Graph-brightgreen?style=flat-square" />
+    <img src="https://img.shields.io/badge/Authority-Stars_&_Forks-orange?style=flat-square" />
+    <img src="https://img.shields.io/badge/Region-Paris_France-blue?style=flat-square" />
+  </p>
+  
+  <p><i>Empowering developers and agencies with high-authority GitHub assets.</i></p>
 </div>
 
 ---
@@ -52,14 +65,6 @@ I am here to guide you through our service catalog:
 - **Official Site:** [gmbsells.com](https://gmbsells.com)
 - **Telegram Support:** [@GMBSells24](https://t.me/GMBSells24)
 - **Email:** gmbsells.info@gmail.com
-
----
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Role-Support_Specialist-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Service-Custom_Contributions-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Stars_&_Forks-orange?style=for-the-badge" />
-</div>
 
 ---
 <p align="center">
